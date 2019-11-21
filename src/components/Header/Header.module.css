@@ -1,0 +1,11 @@
+.root {
+  background-color: #222222;
+  height: 54px;
+  display: flex;
+  align-items: center;
+  padding-left: 80px;
+}
+
+.image {
+  height: 20px;
+}
